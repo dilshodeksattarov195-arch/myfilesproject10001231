@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productconnect",
+        "uuid": 10340400,
+        "checksum": "vuveb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
